@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="judul">Genshin Impact</string>
+    <string name="subHead">Tentang Genshin Impact</string>
+    <string name ="isi">
+        Apa itu Genshin Impact\n
+        Genshin Impact adalah permainan free-to-play action RPG dunia terbuka yang
+        dikembangkan oleh miHoYo. Game ini dirilis pada tanggal 28 September 2020 di platform
+        Android, iOS, Windows, dan PlayStation 4, serta 28 April 2021 di platform PlayStation 5.\n\n
+
+        Dunia\n
+        Di dunia yang bernama Teyvat ini, orang-orang yang terpilih oleh dewa pelindung Archon
+        dikaruniai kendali akan kekuatan elemen dalam bentuk Vision. Pemain akan berperan sebagai
+        seorang Traveler yang menjelajah dunia untuk mencari saudaranya yang hilang. Dalam
+        perjalanan kamu akan bertemu dengan berbagai rekan dengan karakter dan kekuatan yang
+        berbeda-beda, dan mengungkap kebenaran di balik Genshin Impact\n\n
+
+        Alur Game\n
+        Di dalam game dunia terbuka ini, pemain dapat dengan bebas memanjat, berenang, terbang,
+        dan meluncur untuk menjelajah berbagai jenis area di dunia. Dalam pertarungan, pemain dapat
+        mengendalikan tim yang terdiri dari 4 karakter, dan seiring dengan jalannya kisah di dalam
+        game, pemain dapat membuka sampai 30 karakter. Setiap karakter memiliki dua jenis skill,
+        Basic Skill dan Ultimate, Basic Skill dapat terus digunakan selama skill tersebut tidak
+        dalam cooldown, sedangkan skill Ultimate dapat digunakan setelah Elemental Energy terkumpul.\n\n
+
+        Penghargaan\n
+        Pada tahun 2020, Genshin Impact berhasil meraih penghargaan Best Game dan User Choice Game
+        di Google Play Award 2020. Genshin Impact juga berhasil meraih dua nominasi pada The Game
+        Awards 2020 (TGA), yaitu kategori Best Mobile Game dan Best Role Playing. Pada tahun 2021,
+        Genshin Impact berhasil meraih penghargaan Best Mobile Game pada The Game Awards 2021
+        (TGA 2021)\n\n
+
+        Sistem Elemen\n
+        Sistem Elemen adalah sistem utama dalam Genshin Impact, elemen terdiri dari Anemo, Geo, Pyro
+        , Electro, Hydro, Cryo, Dendro. Reaksi di antara ketujuh elemen tersebut akan membantu
+        pemain dalam mengalahkan musuh, atau menyelesaikan misi. Seperti elemen Pyro yang dapat
+        membakar perisai musuh yang terbuat dari kayu, atau elemen Cryo yang dapat membekukan
+        permukaan air. Memasak juga merupakan salah satu sistem khas di Genshin Impact, sambil
+        menjelajah dunia yang luas, pemain dapat menemukan berbagai bahan masakan yang dapat diolah
+        menjadi makanan yang memberikan beragam efek seperti pemulihan HP atau peningkatan ATK dan DEF.\n\n
+
+        Pengembangan\n
+        Setelah perilisan Honkai Impact 3, miHoYo terus meningkatkan kemampuan mereka dalam
+        mengembangkan game, dan juga kualitas produk yang mereka hasilkan. Pada Januari 2017,
+        mereka memulai pengembangan game baru mereka menggunakan engine Unity.  Saat mengembangkan
+        Genshin Impact, tim pengembang miHoYo mengambil inspirasi dari Zelda: Breath of the Wild,
+        Grand Theft Auto series, dan game-game lainnya untuk membuat sistem misi, event,
+        penjelajahan, dan pertarungan yang berbeda dari Honkai Impact 3. Selain pengisi suara
+        Mandarin, miHoYo juga mengundang pengisi suara Jepang ternama seperti Tanaka Rie sebagai
+        pengisi suara di dalam game ini.\n\n
+
+        Perilisan\n
+        Sebelum perilisan game Genshin Impact, pada tahun 2018, miHoYo telah merilis manga Genshin
+        Impact Project di Crunchyroll. Pada bulan Januari 2019, miHoYo membocorkan info mengenai
+        pengembangan game Genshin Impact saat diwawancara oleh Primetime News. Kemudian pada Juni
+        2019, permainan ini pertama kali diumumkan secara resmi pada pameran E3 (Electronic
+        Entertainment Expo), dan pada tanggal 21 Juni, uji coba beta tertutup pertama dimulai. Pada
+        Agustus 2019, miHoYo mengumumkan kehadiran permainan Genshin Impact di PlayStation 4 pada
+        tahun 2020 di pameran ChinaJoy. Kemudian pada bulan September 2019, di pameran Tokyo Game
+        Show, miHoYo menunjukkan trailer permainan dengan dub bahasa Jepang.
+
+    </string>
+</resources>
